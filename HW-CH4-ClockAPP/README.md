@@ -4,4 +4,4 @@
 
 ###### Handler机制、多线程、自定义View
 
-![image](https://github.com/fjygf/android-bytedance-course/blob/main/HW-CH4-ClockAPP/ClockAPP.gif)
+![image](https://github.com/fjygf/android-bytedance-course/blob/master/HW-CH4-ClockAPP/ClockAPP.gif)
