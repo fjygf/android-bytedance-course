@@ -3,9 +3,9 @@ SJTU Android Course Final Project
 
 **杨国峰、杨帆、张之仪**
 
-###### 1. demo.mp4 : 演示视频
+###### 1. 演示视频.mp4 : 演示视频；大作业展示.ppt : 答辩ppt
 
-###### 2. app_all.apk.1 : 拉取所有视频的apk ; app_me.apk.1 : 拉取自己上传视频的apk
+###### 2. app_all.apk : 拉取所有视频的apk ; app_me.apk : 拉取自己上传视频的apk
 
 ###### 3. 视频1播放
 
