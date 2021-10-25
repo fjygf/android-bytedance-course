@@ -1,7 +1,7 @@
 # android-course-final-project
 SJTU Android Course Final Project
 
-**杨国峰、杨帆、张之仪**
+**杨国峰、杨帆**
 
 ###### 1. 演示视频.mp4 : 演示视频；大作业展示.ppt : 答辩ppt
 
